@@ -5,7 +5,7 @@
   </tr>
   <tr>
     <td>Nama</td>
-    <td>Fathia Wardah S.Djawas</td>
+    <td>Darmanto</td>
   </tr>
   <tr>
     <td>NIM</td>
