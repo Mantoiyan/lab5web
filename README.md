@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>NIM</td>
-    <td>312210196</td>
+    <td>312210423</td>
   </tr>
   <tr>
     <td>Kelas</td>
